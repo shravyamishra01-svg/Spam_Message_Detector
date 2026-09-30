@@ -395,6 +395,6 @@ The final project documentation will also include architecture diagrams, workflo
 
 ---
 
-## 18. License
+## 19. License
 
 This project is developed for educational purposes as part of a VITyarthi Build Your Own Project submission.
