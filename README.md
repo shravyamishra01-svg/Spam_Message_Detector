@@ -387,6 +387,12 @@ statement.md
 
 The final project documentation will also include architecture diagrams, workflow diagrams, UML diagrams, screenshots, testing results, challenges, learnings, and future enhancements.
 
+## 18. How to Run
+1. Install the required dependecies:
+   pip install -r requirements.txt
+2. Start the application:
+   streamlit run app.py
+
 ---
 
 ## 18. License
